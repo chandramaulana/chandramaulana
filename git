@@ -1,0 +1,15 @@
+git clone https://github.com/chandramaulana/smart_poultry.git
+
+  git add -A .
+
+  git commit -m " perubahan library"
+
+  git push origin sample
+
+git status
+
+git checkout -b sample
+
+git checkout  sample
+
+git pull
