@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandramaulana
 - 👀 I’m interested in Arduino Programing (Arduino, ESP32, NodeMCU, STM32, Rasberry pi, Electronic, Eagle, Matlab, IoT)
-- 🌱 I’m currently learning C++, micro Python, Matlab, IoT, LoRa WAN, MQTT.
+- 🌱 I’m currently learning C++, Python,PHP, Node JS, Matlab, IoT, LoRaWAN, MQTT, AI, etc.
 - 💞️ I’m looking to collaborate on Smart Device
 - 📫 How to reach me using email (cm.maulana@gmail.com)
 
